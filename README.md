@@ -1,4 +1,4 @@
-# c--Turorial
+# c++Turorial
 Author: Nenfort Golit
 <h1>Introduction</h1>
 Google for education c++ tutorial solution for getting started <a href="https://developers.google.com/edu/c++/getting-started"> </a>
